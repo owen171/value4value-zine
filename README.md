@@ -1,15 +1,12 @@
 # ⚡️ Value for Value Zine ⚡️
 
-> A Value for Value / Bitcoin zine for the punk and hardcore scene
+A Value for Value / Bitcoin zine for the punk and hardcore scene
 
 ---
 
 ## Preview
 
-<video controls width="100%" style="max-width: 600px;">
-  <source src="assets/v4v-zine-preview.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+Watch the preview video: [assets/v4v-zine-preview.mp4](assets/v4v-zine-preview.mp4)
 
 ---
 
@@ -31,7 +28,7 @@ This project remixes content from Wavlake (https://wavlake.com/) and Gigi's http
 
 ![Zine - English Version](assets/v4v-zine-eng.jpg)
 
-[Read plain text version →](assets/v4v-zine-eng.txt) *(coming soon)*
+[Plain text version →](assets/v4v-zine-eng.txt) *(coming soon)*
 
 ---
 
@@ -39,7 +36,7 @@ This project remixes content from Wavlake (https://wavlake.com/) and Gigi's http
 
 ![Zine - Italian Version](assets/v4v-zine-ita.png)
 
-[Read plain text version →](assets/v4v-zine-ita.txt) *(coming soon)*
+[Plain text version →](assets/v4v-zine-ita.txt) *(coming soon)*
 
 **Printing instructions:** Standard 8.5 x 11 paper. Cut along outer lines, fold in half along center crease. Ready to hand out at shows.
 
@@ -86,9 +83,9 @@ Another community member printed copies plus stickers and spread them around New
 ### Project Contributors
 | Role | Identity | Notes |
 |------|----------|-------|
-| Creator | [`npub1am50jqjytzdtepftqfzf8grh2gs4wpt7d4t90zxc6z288wqazj5skdks29`](http://njump.me/npub1am50jqjytzdtepftqfzf8grh2gs4wpt7d4t90zxc6z288wqazj5skdks29) (Owen) | Original concept & design |
-| Translator | [`npub1tsfqcauyxr03msglk2f82wqytx76u2wdffyzymtgy4szncmujr9qx07ev5`](http://njump.me/npub1tsfqcauyxr03msglk2f82wqytx76u2wdffyzymtgy4szncmujr9qx07ev5) | Italian translation |
-| Distributor | [`npub1eequz6v23szzyx9utphsh8kg6kll500te6sfh4vah8gdjtplcz6qg7at9s`](http://njump.me/npub1eequz6v23szzyx9utphsh8kg6kll500te6sfh4vah8gdjtplcz6qg7at9s) (Lightning Store) | NYC prints + stickers |
+| Creator | [`npub1am50jqjytzdtepftqfzf8grh2gs4wpt7d4t90zxc6z288wqazj5skdks29`](https://njump.me/npub1am50jqjytzdtepftqfzf8grh2gs4wpt7d4t90zxc6z288wqazj5skdks29) (Owen) | Original concept & design |
+| Translator | [`npub1tsfqcauyxr03msglk2f82wqytx76u2wdffyzymtgy4szncmujr9qx07ev5`](https://njump.me/npub1tsfqcauyxr03msglk2f82wqytx76u2wdffyzymtgy4szncmujr9qx07ev5) | Italian translation |
+| Distributor | [`npub1eequz6v23szzyx9utphsh8kg6kll500te6sfh4vah8gdjtplcz6qg7at9s`](https://njump.me/npub1eequz6v23szzyx9utphsh8kg6kll500te6sfh4vah8gdjtplcz6qg7at9s) (Lightning Store) | NYC prints + stickers |
 
 ---
 
