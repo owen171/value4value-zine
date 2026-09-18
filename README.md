@@ -20,7 +20,7 @@ This repository archives a small DIY zine created to introduce Value for Value, 
 - **Easy to assemble** — just cut, fold in half, distribute
 - **A bridge** between DIY punk culture and the Bitcoin/Nostr ecosystem
 
-This project remixes content from Wavlake (https://wavlake.com/) and Gigi's http://value4value.info, with gratitude to Adam Curry ("the Podfather") for leadership in the v4v space.
+This project remixes content from <a href="https://wavlake.com/" target="_blank" rel="noopener noreferrer">Wavlake</a> and Gigi's <a href="http://value4value.info" target="_blank" rel="noopener noreferrer">value4value.info</a>, with gratitude to Adam Curry ("the Podfather") for leadership in the v4v space.
 
 ---
 
@@ -50,7 +50,7 @@ This project remixes content from Wavlake (https://wavlake.com/) and Gigi's http
 
 These are young, non-conformant people with an ember of independence that needs ignition. The punk scene is already famously scrappy and DIY-centric (tape labels, zines, etc.). So the zine was created as something anyone could print and hand out at music events.
 
-**Original announcement:** https://primal.net/e/nevent1qqs9w2k7kceg67cn9e7gj4ra2gx3zv6xlrnvqqmnuavkjlt9u30th7qa40edq
+**Original announcement:** <a href="https://primal.net/e/nevent1qqs9w2k7kceg67cn9e7gj4ra2gx3zv6xlrnvqqmnuavkjlt9u30th7qa40edq" target="_blank" rel="noopener noreferrer">https://primal.net/e/nevent1qqs9w2k7kceg67cn9e7gj4ra2gx3zv6xlrnvqqmnuavkjlt9u30th7qa40edq</a>
 
 ---
 
@@ -58,15 +58,15 @@ These are young, non-conformant people with an ember of independence that needs 
 
 ### Italian Translation 🇮🇹
 Someone in the community translated the zine into Italian. They shared photos of piles of printed zines:
-- **Translator:** [`npub1tsfqcauyxr03msglk2f82wqytx76u2wdffyzymtgy4szncmujr9qx07ev5`](https://primal.net/p/npub1tsfqcauyxr03msglk2f82wqytx76u2wdffyzymtgy4szncmujr9qx07ev5)
-- **Post:** https://primal.net/e/nevent1qqswwkglz55hzwwmvggmampxf4nx68546p5srm53yq3lcw78f26mgkqkp7aq5
+- **Translator:** <a href="https://primal.net/p/npub1tsfqcauyxr03msglk2f82wqytx76u2wdffyzymtgy4szncmujr9qx07ev5" target="_blank" rel="noopener noreferrer"><code>npub1tsfqcauyxr03msglk2f82wqytx76u2wdffyzymtgy4szncmujr9qx07ev5</code></a>
+- **Post:** <a href="https://primal.net/e/nevent1qqswwkglz55hzwwmvggmampxf4nx68546p5srm53yq3lcw78f26mgkqkp7aq5" target="_blank" rel="noopener noreferrer">https://primal.net/e/nevent1qqswwkglz55hzwwmvggmampxf4nx68546p5srm53yq3lcw78f26mgkqkp7aq5</a>
 
 ![Italian translation pile - zines being mass printed](assets/v4v-zine-clipping01.jpg)
 
 ### NYC Distribution 🗽
 Another community member printed copies plus stickers and spread them around New York City:
-- **Distributor:** [`npub1eequz6v23szzyx9utphsh8kg6kll500te6sfh4vah8gdjtplcz6qg7at9s`](https://primal.net/p/npub1eequz6v23szzyx9utphsh8kg6kll500te6sfh4vah8gdjtplcz6qg7at9s) (Lightning Store)
-- **Post:** https://primal.net/e/nevent1qqsdlsql8qugulm3d6grwf84fu5sw3y4pzsk3l586aqkfhdwgdzwd9g2xyuxc
+- **Distributor:** <a href="https://primal.net/p/npub1eequz6v23szzyx9utphsh8kg6kll500te6sfh4vah8gdjtplcz6qg7at9s" target="_blank" rel="noopener noreferrer"><code>npub1eequz6v23szzyx9utphsh8kg6kll500te6sfh4vah8gdjtplcz6qg7at9s</code></a> (Lightning Store)
+- **Post:** <a href="https://primal.net/e/nevent1qqsdlsql8qugulm3d6grwf84fu5sw3y4pzsk3l586aqkfhdwgdzwd9g2xyuxc" target="_blank" rel="noopener noreferrer">https://primal.net/e/nevent1qqsdlsql8qugulm3d6grwf84fu5sw3y4pzsk3l586aqkfhdwgdzwd9g2xyuxc</a>
 
 ![NYC distribution - printed zines and stickers](assets/v4v-zine-clipping02.jpg)
 ![NYC distribution - spread around the city](assets/v4v-zine-clipping03.jpg)
@@ -78,16 +78,16 @@ Another community member printed copies plus stickers and spread them around New
 ### Original Content Sources
 | Source | Contribution |
 |--------|--------------|
-| Wavlake Blog (https://zine.wavlake.com/) | Words & imagery foundation |
-| https://value4value.info (Gigi) | Core Value for Value philosophy |
+| <a href="https://zine.wavlake.com/" target="_blank" rel="noopener noreferrer">Wavlake Blog</a> | Words & imagery foundation |
+| <a href="https://value4value.info" target="_blank" rel="noopener noreferrer">value4value.info</a> (Gigi) | Core Value for Value philosophy |
 | Adam Curry | Leadership acknowledgment ("Podfather") |
 
 ### Project Contributors
 | Role | Identity | Notes |
 |------|----------|-------|
-| Creator | [`npub1am50jqjytzdtepftqfzf8grh2gs4wpt7d4t90zxc6z288wqazj5skdks29`](https://primal.net/p/npub1am50jqjytzdtepftqfzf8grh2gs4wpt7d4t90zxc6z288wqazj5skdks29) (Owen) | Original concept & design |
-| Translator | [`npub1tsfqcauyxr03msglk2f82wqytx76u2wdffyzymtgy4szncmujr9qx07ev5`](https://primal.net/p/npub1tsfqcauyxr03msglk2f82wqytx76u2wdffyzymtgy4szncmujr9qx07ev5) | Italian translation |
-| Distributor | [`npub1eequz6v23szzyx9utphsh8kg6kll500te6sfh4vah8gdjtplcz6qg7at9s`](https://primal.net/p/npub1eequz6v23szzyx9utphsh8kg6kll500te6sfh4vah8gdjtplcz6qg7at9s) (Lightning Store) | NYC prints + stickers |
+| Creator | <a href="https://primal.net/p/npub1am50jqjytzdtepftqfzf8grh2gs4wpt7d4t90zxc6z288wqazj5skdks29" target="_blank" rel="noopener noreferrer"><code>npub1am50jqjytzdtepftqfzf8grh2gs4wpt7d4t90zxc6z288wqazj5skdks29</code></a> (Owen) | Original concept & design |
+| Translator | <a href="https://primal.net/p/npub1tsfqcauyxr03msglk2f82wqytx76u2wdffyzymtgy4szncmujr9qx07ev5" target="_blank" rel="noopener noreferrer"><code>npub1tsfqcauyxr03msglk2f82wqytx76u2wdffyzymtgy4szncmujr9qx07ev5</code></a> | Italian translation |
+| Distributor | <a href="https://primal.net/p/npub1eequz6v23szzyx9utphsh8kg6kll500te6sfh4vah8gdjtplcz6qg7at9s" target="_blank" rel="noopener noreferrer"><code>npub1eequz6v23szzyx9utphsh8kg6kll500te6sfh4vah8gdjtplcz6qg7at9s</code></a> (Lightning Store) | NYC prints + stickers |
 
 ---
 
