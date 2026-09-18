@@ -73,6 +73,16 @@ Another community member printed copies plus stickers and spread them around New
 
 ---
 
+## License & Reuse
+
+This zine is released under the Creative Commons Attribution 4.0 International (CC BY 4.0) license. In plain terms: you are free to download, print, share, remix, translate, and reuse it for any purpose, including commercial use, as long as you give appropriate credit and link back to the original project.
+
+If you adapt or redistribute it, please keep attribution to the Value for Value Zine project visible and mention that it originated here.
+
+This repository is intended to be a public resource for the punk, DIY, and Bitcoin/Nostr communities.
+
+---
+
 ## Credits & Attribution
 
 ### Original Content Sources
