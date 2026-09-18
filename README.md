@@ -6,6 +6,8 @@ A Value for Value / Bitcoin zine for the punk and hardcore scene
 
 ## Preview
 
+[![Preview still](assets/v4v-zine-preview-still.png)](assets/v4v-zine-preview.mp4)
+
 Watch the preview video: [assets/v4v-zine-preview.mp4](assets/v4v-zine-preview.mp4)
 
 ---
@@ -56,14 +58,14 @@ These are young, non-conformant people with an ember of independence that needs 
 
 ### Italian Translation 🇮🇹
 Someone in the community translated the zine into Italian. They shared photos of piles of printed zines:
-- **Translator:** [`npub1tsfqcauyxr03msglk2f82wqytx76u2wdffyzymtgy4szncmujr9qx07ev5`](http://njump.me/npub1tsfqcauyxr03msglk2f82wqytx76u2wdffyzymtgy4szncmujr9qx07ev5)
+- **Translator:** [`npub1tsfqcauyxr03msglk2f82wqytx76u2wdffyzymtgy4szncmujr9qx07ev5`](https://primal.net/p/npub1tsfqcauyxr03msglk2f82wqytx76u2wdffyzymtgy4szncmujr9qx07ev5)
 - **Post:** https://primal.net/e/nevent1qqswwkglz55hzwwmvggmampxf4nx68546p5srm53yq3lcw78f26mgkqkp7aq5
 
 ![Italian translation pile - zines being mass printed](assets/v4v-zine-clipping01.jpg)
 
 ### NYC Distribution 🗽
 Another community member printed copies plus stickers and spread them around New York City:
-- **Distributor:** [`npub1eequz6v23szzyx9utphsh8kg6kll500te6sfh4vah8gdjtplcz6qg7at9s`](http://njump.me/npub1eequz6v23szzyx9utphsh8kg6kll500te6sfh4vah8gdjtplcz6qg7at9s) (Lightning Store)
+- **Distributor:** [`npub1eequz6v23szzyx9utphsh8kg6kll500te6sfh4vah8gdjtplcz6qg7at9s`](https://primal.net/p/npub1eequz6v23szzyx9utphsh8kg6kll500te6sfh4vah8gdjtplcz6qg7at9s) (Lightning Store)
 - **Post:** https://primal.net/e/nevent1qqsdlsql8qugulm3d6grwf84fu5sw3y4pzsk3l586aqkfhdwgdzwd9g2xyuxc
 
 ![NYC distribution - printed zines and stickers](assets/v4v-zine-clipping02.jpg)
@@ -83,9 +85,9 @@ Another community member printed copies plus stickers and spread them around New
 ### Project Contributors
 | Role | Identity | Notes |
 |------|----------|-------|
-| Creator | [`npub1am50jqjytzdtepftqfzf8grh2gs4wpt7d4t90zxc6z288wqazj5skdks29`](https://njump.me/npub1am50jqjytzdtepftqfzf8grh2gs4wpt7d4t90zxc6z288wqazj5skdks29) (Owen) | Original concept & design |
-| Translator | [`npub1tsfqcauyxr03msglk2f82wqytx76u2wdffyzymtgy4szncmujr9qx07ev5`](https://njump.me/npub1tsfqcauyxr03msglk2f82wqytx76u2wdffyzymtgy4szncmujr9qx07ev5) | Italian translation |
-| Distributor | [`npub1eequz6v23szzyx9utphsh8kg6kll500te6sfh4vah8gdjtplcz6qg7at9s`](https://njump.me/npub1eequz6v23szzyx9utphsh8kg6kll500te6sfh4vah8gdjtplcz6qg7at9s) (Lightning Store) | NYC prints + stickers |
+| Creator | [`npub1am50jqjytzdtepftqfzf8grh2gs4wpt7d4t90zxc6z288wqazj5skdks29`](https://primal.net/p/npub1am50jqjytzdtepftqfzf8grh2gs4wpt7d4t90zxc6z288wqazj5skdks29) (Owen) | Original concept & design |
+| Translator | [`npub1tsfqcauyxr03msglk2f82wqytx76u2wdffyzymtgy4szncmujr9qx07ev5`](https://primal.net/p/npub1tsfqcauyxr03msglk2f82wqytx76u2wdffyzymtgy4szncmujr9qx07ev5) | Italian translation |
+| Distributor | [`npub1eequz6v23szzyx9utphsh8kg6kll500te6sfh4vah8gdjtplcz6qg7at9s`](https://primal.net/p/npub1eequz6v23szzyx9utphsh8kg6kll500te6sfh4vah8gdjtplcz6qg7at9s) (Lightning Store) | NYC prints + stickers |
 
 ---
 
